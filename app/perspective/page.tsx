@@ -37,7 +37,7 @@ export default function HomePage() {
     <>
       <div
         ref={cursorRef}
-        className="w-8 h-8 bg-blue-500 rounded-full pointer-events-none"
+        className="w-12 h-12 bg-blue-500 rounded-full pointer-events-none"
       ></div>
       <div className="h-screen flex justify-center items-center overflow-hidden bg-blue-600">
         <div className="relative perspective-100 uppercase">
